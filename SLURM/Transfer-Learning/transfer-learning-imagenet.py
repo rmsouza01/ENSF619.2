@@ -43,7 +43,7 @@ train_generator = train_gen.flow_from_directory(
 )
 
 validation_generator = val_gen.flow_from_directory(
-    directory = "/home/roberto.medeirosdeso/Transfer-Learning/Garbage-dataset/Validation ",
+    directory = "/home/roberto.medeirosdeso/Transfer-Learning/Garbage-dataset/Validation",
     target_size=(256, 256),
     color_mode="rgb",
     classes= class_names,

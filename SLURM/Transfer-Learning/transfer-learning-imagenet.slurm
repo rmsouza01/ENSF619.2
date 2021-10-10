@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --time=06:00:00
+#SBATCH --time=24:00:00
 #SBATCH --output=%x.out
 #SBATCH --cpus-per-task=3
 #SBATCH --gres=gpu:1
