@@ -16,3 +16,9 @@ This course is a hands-on course on Advanced Topics in Image Analysis and Machin
 - Deep Learning
 
 - [Transfer Learning - ImageNet](JNotebooks/transfer_learning_imagenet.ipynb)
+
+- [UNET Segmentation](SLURM-Unet-Segmentation)
+
+- [Domain Adversarial Training of Neural Networks](JNotebooks/domain-adversarial-network-mnist-mnistm.ipynb)
+
+- [Interpretable Machine Learning](JNotebooks/interpretable_ML_magnetic_field_scanner_vendor_classification.ipynb)
